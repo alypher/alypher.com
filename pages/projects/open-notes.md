@@ -29,4 +29,4 @@ Deployment:
 
 ## Link
 
-- [Open Notes](https://interatcontabil.com.br/)
+- [Open Notes](https://github.com/alypher/alypher-open-notes)
