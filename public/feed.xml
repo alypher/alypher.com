@@ -4,7 +4,25 @@
         <description><![CDATA[Alypher Mansano]]></description>
         <link>https://alypher.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Jun 2023 18:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 18:35:43 GMT</lastBuildDate>
         <atom:link href="https://alypher.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interat Contabilidade Digital]]></title>
+            <description><![CDATA[A new website built for a digital transformation using React and TS]]></description>
+            <link>/projects/interat</link>
+            <guid isPermaLink="true">/projects/interat</guid>
+            <category><![CDATA[Website]]></category>
+            <dc:creator><![CDATA[Me]]></dc:creator>
+            <pubDate>Sat, 01 Jan 2022 03:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Open Notes]]></title>
+            <description><![CDATA[A notes tool built share texts over internet, using the site's path]]></description>
+            <link>/projects/open-notes</link>
+            <guid isPermaLink="true">/projects/open-notes</guid>
+            <category><![CDATA[Website]]></category>
+            <dc:creator><![CDATA[Me]]></dc:creator>
+            <pubDate>Sun, 01 Mar 2020 03:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
