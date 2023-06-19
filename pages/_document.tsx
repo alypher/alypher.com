@@ -22,6 +22,14 @@ export default function Document() {
         <meta name="twitter:description" content={meta.description} />
         <meta name="twitter:image" content={meta.image} />
       </Head>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-WQHBDQMS5D"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-WQHBDQMS5D');
+      </script>
       <body>
         <Main />
         <NextScript />
