@@ -1,6 +1,6 @@
 ---
 title: Interat Contabilidade Digital
-date: 2022/1/1
+date: 2020/1/1
 description: A new website built for a digital transformation using React and TS
 tag: Website
 author: Me
@@ -10,7 +10,7 @@ author: Me
 
 ## Project
 
-A new website built for a digital transformation of a accounting firm
+A new website built for a digital transformation of a accounting firm (made to friends)
 
 ## Tecnologies
 
