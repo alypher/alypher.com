@@ -26,4 +26,4 @@ Deployment:
 
 ## Link
 
-- [Rippie](https://rippie.alypher.com/)
+- [Rippie](https://rippie.vercel.app/)
